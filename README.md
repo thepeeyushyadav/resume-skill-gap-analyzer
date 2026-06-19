@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg" alt="Streamlit" />
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License" />
   </p>
-  
+    
   <h3>
     🔴 <a href="https://resume-skill-gap-analyzer-aw4hhwud7zwdzynwewuotq.streamlit.app/" target="_blank">View Live Application</a>
   </h3>
